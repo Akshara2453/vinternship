@@ -19,7 +19,7 @@ In between the modules, we had stand up sessions. These were not formal meetings
 
 Wayground quizzes quickly became my favorite activity. Ten MCQs. One leaderboard. A few minutes of pressure. When I saw my name in the top three, I felt like I had won a mini tournament. It was not about competition alone. It was proof that I was learning.
 
-Breakout rooms changed the tone of the internship. We solved case studies together. We debated logic. We explained concepts to each other. We even played Scribbl as a break from debugging our brains. Those sessions made the learning human. Behind every GitHub repo and code snippet, there were real people laughing, thinking, and sometimes getting stuck together.
+Breakout rooms changed the tone of the internship. We solved case studies together. We debated logic. We explained concepts to each other. We even played Scribbl as a break from debugging our brains. Those sessions made the learning human.
 
 The case studies deserve their own paragraph in my story.
 
@@ -37,7 +37,7 @@ One space that I did not expect to value so much was the Discord server. It beca
 
 When I look back, I do not remember a checklist of topics completed. I remember moments.
 
-The first time I understood how the full stack pieces connect. The thrill of seeing my name on a leaderboard. The laughter in breakout rooms. The pressure before a viva. The quiet satisfaction of completing ViBe on 17th February.
+The first time I understood how the full stack pieces connect. The thrill of seeing my name on a leaderboard. The laughter in breakout rooms.
 
 This internship did not just teach me MERN or TypeScript or React. It changed how I approach learning. I learned that consistency beats bursts of motivation. I learned that collaboration accelerates clarity. I learned that struggling with a case study is not a sign of weakness. It is proof that you are stretching.
 
