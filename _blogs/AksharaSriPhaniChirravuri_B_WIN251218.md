@@ -1,6 +1,7 @@
-title: "Six Weeks That Changed How I Learn"
-author: Akshara Sri Phani Chirravuri
-vinternship_id: WIN251218
+---
+ title: "Six Weeks That Changed How I Learn"
+ author: Akshara Sri Phani Chirravuri
+ vinternship_id: WIN251218
 ---
 
 When I joined the Vinternship at VLED Lab, I thought I was signing up for a technical program. I did not expect it to feel personal.
